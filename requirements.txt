@@ -1,0 +1,8 @@
+langchain~=0.0.220
+unstructured
+tiktoken
+pinecone-client
+pypdf
+python-dotenv~=1.0.0
+OpenAI
+sentence_transformers
